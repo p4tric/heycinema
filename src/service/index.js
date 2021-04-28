@@ -18,5 +18,5 @@ export async function fetchCinemaList(payload) {
     ...payload,
     apikey: API_KEY,
   });
-  return fetch(`http://www.omdbapi.com/?${params}`);
+  return fetch(`https://www.omdbapi.com/?${params}`);
 };

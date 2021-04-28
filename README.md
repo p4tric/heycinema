@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Hey Cinema
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Initial Instructions
+
+After cloning the repository, make sure to run `yarn` or `npm install` before running other npm/yarn scripts.
 
 ## Available Scripts
 
